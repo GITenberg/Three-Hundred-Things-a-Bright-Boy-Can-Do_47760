@@ -1,4 +1,8 @@
 _repo: Three-Hundred-Things-a-Bright-Boy-Can-Do_47760
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47760-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -9,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47760#Three-Hundred-Things-a-Bright-Boy-Can-Do
 gutenberg_issued: '2014-12-26'
 gutenberg_type: Text
 identifiers:
